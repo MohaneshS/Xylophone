@@ -1,0 +1,111 @@
+body{
+    text-align: center;
+    background-color:#292c2e;
+}
+
+#title{
+    color: azure;
+    text-shadow: 2px 0 coral;
+}
+
+.footer{
+    color: #69bfbf;
+}
+
+.button{
+    outline: 0;
+    background-color: azure;
+    border:1px solid whitesmoke;
+}
+
+.c-low{
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#a351c3;
+	border-radius:10px;
+    cursor:pointer;
+    height: 380px;
+    width: 25px;
+
+}
+
+.d {
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#3463bd;;
+	border-radius:10px;
+    cursor:pointer;
+    height: 340px;
+    width: 25px;
+
+}
+
+.e {
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#2e93c2;
+	border-radius:10px;
+    cursor:pointer;
+    height: 300px;
+    width: 25px;
+
+}
+
+.f {
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#2f7351;
+	border-radius:10px;
+    cursor:pointer;
+    height: 260px;
+    width: 25px;
+
+}
+
+.g {
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#3e8243;
+	border-radius:10px;
+    cursor:pointer;
+    height: 240px;
+    width: 25px;
+
+}
+
+.a {
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#ebd03b;
+	border-radius:10px;
+    cursor:pointer;
+    height: 200px;
+    width: 25px;
+
+}
+
+.b {
+    
+    box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#dd6335;
+	border-radius:10px;
+    cursor:pointer;
+    height: 160px;
+    width: 25px;
+}
+
+.c-high {
+	box-shadow: 0px 3px 14px -7px #276873;
+	background-color:#dc433a;
+	border-radius:10px;
+    cursor:pointer;
+    height: 120px;
+    width: 25px;
+}
+/* .c-high:hover {
+    background:linear-gradient(to bottom, #ff4c43 5%, #ad352f 100%);
+} */
+    
+/* .c-high:active {
+	position:relative;
+	top:1px;
+} */
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
