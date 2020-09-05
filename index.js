@@ -25,12 +25,12 @@ function makeSound(key){
 
     switch (key) {
         case "1":
-            var audio = new Audio("/sounds/c-low-note.wav");
+            var audio = new Audio("https://github.com/MohansehS/Xylophone/blob/master/sounds/c-low-note.wav");
             audio.play();
         break;
     
         case "2":
-            var audio = new Audio("/sounds/d-note.wav");
+            var audio = new Audio("https://github.com/MohansehS/Xylophone/blob/master/sounds/d-note.wav");
             audio.play();
         break;
     
